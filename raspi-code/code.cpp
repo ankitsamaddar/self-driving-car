@@ -172,6 +172,10 @@ int main(int argc,char **argv)
 	cout<<"Failed to Connect"<<endl;
      }
      
+	
+	
+	
+	
      cout<<"Camera Id = "<<Camera.getId()<<endl;
      
      while(1)
