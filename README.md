@@ -1,6 +1,4 @@
-# Autonomous Car Project (WIP)
-
-> Work In Progress (WIP)
+# Autonomous Car Project
 
 This project is an autonomous car built using C++ and OpenCV on Arduino and Raspberry Pi 3. The car is capable of lane detection, object detection, and self-driving. The lane detection algorithm uses OpenCV to identify the pixels that belong to the lane class. The object detection algorithm uses YOLOv3 CNN architecture to classify sign boards and perform object tracking. The self-driving capabilities are controlled using the Arduino UNO.
 
